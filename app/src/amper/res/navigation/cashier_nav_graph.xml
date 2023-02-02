@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cashier_nav_grap"
+    app:startDestination="@id/posFragment">
+
+    <fragment
+        android:id="@+id/posFragment"
+        android:name="com.qr.pos.amper.cashier.ui.pos.PosFragment"
+        android:label="fragment_pos"
+        tools:layout="@layout/fragment_pos" />
+</navigation>

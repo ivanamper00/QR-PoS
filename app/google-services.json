@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "171122335159",
+    "project_id": "qr-point-of-sales",
+    "storage_bucket": "qr-point-of-sales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171122335159:android:30708a202ca497814f5c32",
+        "android_client_info": {
+          "package_name": "com.qr.pos.amper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171122335159-rj0gjqv6av57pa3ee1oa1aogktmt486v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qr.pos.amper",
+            "certificate_hash": "91908bbe45b8cbdf1d42e313008346fa5ff1f744"
+          }
+        },
+        {
+          "client_id": "171122335159-h5g5n7dtri0lkn7238emp9803usiihgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVDUlONAvdlrfhCuEKjux392OsSrZD3Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171122335159-h5g5n7dtri0lkn7238emp9803usiihgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

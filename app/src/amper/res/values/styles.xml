@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DefaultTextInputLayout">
+        <item name="boxBackgroundColor">@null</item>
+        <item name="boxBackgroundMode">filled</item>
+    </style>
+
+    <style name="LoginTextInputLayout" parent="DefaultTextInputLayout">
+        <item name="background">@drawable/custom_border_gray</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="boxStrokeWidthFocused">0dp</item>
+    </style>
+</resources>

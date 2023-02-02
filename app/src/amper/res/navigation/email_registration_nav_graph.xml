@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/emailRegistrationFragment">
+
+    <fragment
+        android:id="@+id/emailRegistrationFragment"
+        android:name="com.qr.pos.amper.auth.ui.registration.fragments.EmailRegistrationFragment"
+        android:label="fragment_email_registration"
+        tools:layout="@layout/fragment_email_registration" />
+</navigation>
